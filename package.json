@@ -1,4 +1,5 @@
 {
+  "homepage": "http://jimmy4701.github.io/jimmysite",
   "name": "jimmysite",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +18,5 @@
   },
   "devDependencies": {
     "gh-pages": "^1.2.0"
-  },
-  "homepage": "http://jimmy4701.github.io/jimmysite"
+  }
 }
